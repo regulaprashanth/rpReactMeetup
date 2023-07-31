@@ -1,0 +1,22 @@
+.notFoundContainer {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  width: 100vw;
+  height: 100vh;
+}
+
+.errorImage {
+  height: 300px;
+  width: 600px;
+}
+
+.errorHeading {
+  color: #334155;
+  font-size: 35px;
+}
+.errorParagraph {
+  color: #7b8794;
+  font-size: 18px;
+}

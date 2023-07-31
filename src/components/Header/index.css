@@ -1,0 +1,13 @@
+.headerContainer {
+  display: flex;
+  justify-content: flex-start;
+  align-items: center;
+  width: 100vw;
+  height: 10vh;
+  padding-left: 20px;
+}
+
+.logo {
+  height: 40px;
+  width: 180px;
+}

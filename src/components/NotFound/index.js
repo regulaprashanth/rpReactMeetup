@@ -1,0 +1,16 @@
+import './index.css'
+
+const NotFound = () => (
+  <div className="notFoundContainer">
+    <img
+      className="errorImage"
+      src="https://assets.ccbp.in/frontend/react-js/meetup/not-found-img.png "
+      alt="not found"
+    />
+    <h1 className="errorHeading">Page Not Found</h1>
+    <p className="errorParagraph">
+      We are sorry, the page you requested could not be found
+    </p>
+  </div>
+)
+export default NotFound
